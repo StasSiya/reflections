@@ -1,0 +1,38 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It only showed the peaces of code that were changed; it narrows the field of searching for a mistake
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    I can always go back to an older version and restore information if something in the new version gets broken
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   I can set the for me logical verison control. If everything gets saved automaticall it will be an overkill on information. On the other hand it could be problematic if big changes are submittes in one commit. It may be hard to follow all the steps that have been undertaken.
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    These options meet different requirements - Git meets the needs of programmers who often work with several files which functionality often depends on eath other; it is therefore necessary to keep track of all thanges in all files. Google Docs works with one document at a time, it is therefore not necessary to commit several files.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    By entering git log in the correct folder, I can see the history of all commits. If I want to compare the files I enter the correspondig IDs of the commit and then can view changes 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    I will try out code without being afraid to damage the existing code
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    My current android projects
+
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
