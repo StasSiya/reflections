@@ -2,7 +2,11 @@ What happens when you initialize a repository? Why do you need to do it?
 
 Repository stores the metadata about hte history of the repository. This metadate is stored in the .git folder (invisible to the user; in cmd - ls -a will show all files, also the .git - file)
 I need to do to it to be able to have access to all the version of my project.
+
 How is the staging area different from the working directory and the repository?
+Staging area is temporal - it permits to cluster commits as it is useful for the programmer.
+It is between the working directory and the repository and permits to adjust the commits.
+
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
