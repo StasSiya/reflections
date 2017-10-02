@@ -10,12 +10,15 @@ It is between the working directory and the repository and permits to adjust the
 What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
-change?
+change? You can chose what changes to commit
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+It is helpful if you want to experiment with your project still having the opportunity to the code before starting the experiments..
+
 
 How do the diagrams help you visualize the branch structure?
+it allows to see what commits have been made in which branch and therefore have a better understanding and overview of the commits in the project
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
